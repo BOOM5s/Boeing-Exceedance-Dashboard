@@ -1,0 +1,6 @@
+panel
+holoviews
+bokeh
+pandas
+openpyxl
+numpy
